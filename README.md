@@ -11,7 +11,7 @@ You wish to add or change something? Please send me an [email](mailto:mvarga1989
 - [**Geodaesie**](https://geodaesie.info/)
 - [**Geospatial World**](https://www.geospatialworld.net/)
 - [**GEO Informatics**](https://www.geoinformatics.com/)
-- [**Geospatial World**, Youtube hannel](https://www.youtube.com/user/geospatialmedia/featured)
+- [**Geospatial World**, Youtube channel](https://www.youtube.com/user/geospatialmedia/featured)
 - [**GeoWeekNews**](https://www.geoweeknews.com/)
 - [**GIM International**](https://www.gim-international.com/)
 - [**GIS.point**](https://gispoint.de/home.html)
