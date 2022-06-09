@@ -13,7 +13,7 @@ You wish to add or change something? Please send me an [email](mailto:mvarga1989
 - [**GEO Informatics**](https://www.geoinformatics.com/)
 - [**Geospatial World**, Youtube hannel](https://www.youtube.com/user/geospatialmedia/featured)
 - [**GeoWeekNews**](https://www.geoweeknews.com/)
-- [**GIM International**])(https://www.gim-international.com/)
+- [**GIM International**](https://www.gim-international.com/)
 - [**GIS.point**](https://gispoint.de/home.html)
 - [**GoGeomatics**](https://gogeomatics.ca/)
 - [**GPS World**](https://www.gpsworld.com/)
