@@ -8,6 +8,7 @@ You wish to add or change something? Please send me an [email](mailto:mvarga1989
 - [**E-Periodica**](https://www.e-periodica.ch/)
 - [**geoconnexion**](https://www.geoconnexion.com/)
 - [**Geodaesie**](https://geodaesie.info/)
+- [** Geomares-marketing**](https://geomares-marketing.com/)
 - [**Geospatial World**](https://www.geospatialworld.net/)
 - [**GEO Informatics**](https://www.geoinformatics.com/)
 - [**Geospatial World**, Youtube channel](https://www.youtube.com/user/geospatialmedia/featured)
