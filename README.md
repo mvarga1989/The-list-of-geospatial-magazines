@@ -20,6 +20,7 @@ You wish to add or change something? Please send me an [email](mailto:mvarga1989
 - [**International Construction**](https://www.international-construction.com/)
 - [**Inside GNSS**](https://insidegnss.com/)
 - [**Inside Unmanned Systems**](https://insideunmannedsystems.com/)
+- [**Mapscaping**](https://mapscaping.com/)
 - [**Point of Beginning**](https://www.pobonline.com/)
 - [**Professional Surveyor**](https://archives.profsurv.com/magazine/archives.aspx)
 - [**Surveyor**](https://www.acsnsw.com.au/news/surveyor-magazine/)
