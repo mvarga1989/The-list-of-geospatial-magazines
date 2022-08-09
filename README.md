@@ -23,6 +23,7 @@ You wish to add or change something? Please send me an [email](mailto:mvarga1989
 - [**Mapscaping**](https://mapscaping.com/)
 - [**Point of Beginning**](https://www.pobonline.com/)
 - [**Professional Surveyor**](https://archives.profsurv.com/magazine/archives.aspx)
+- [**Spatial Source**](https://www.spatialsource.com.au/)
 - [**Surveyor**](https://www.acsnsw.com.au/news/surveyor-magazine/)
 - [**Velocity Magazine**](https://hexagonpositioning.com/tech-talk/velocity)
 - [**XYHT**](https://www.xyht.com/)
