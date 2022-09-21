@@ -21,6 +21,7 @@ You wish to add or change something? Please send me an [email](mailto:mvarga1989
 - [**Inside GNSS**](https://insidegnss.com/)
 - [**Inside Unmanned Systems**](https://insideunmannedsystems.com/)
 - [**Lidar Magazine**](https://lidarmag.com/)
+- [**Lidar News**](https://lidarnews.com/)
 - [**Mapscaping**](https://mapscaping.com/)
 - [**Point of Beginning**](https://www.pobonline.com/)
 - [**Professional Surveyor**](https://archives.profsurv.com/magazine/archives.aspx)
