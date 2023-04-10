@@ -4,6 +4,7 @@ You wish to add or change something? Please send me an [email](mailto:mvarga1989
 
 - [**American Surveyor**](https://amerisurv.com/)
 - [**Coordinates**](https://mycoordinates.org/)
+- [**Directions mag**](https://www.directionsmag.com)
 - [**Drone Life**](https://dronelife.com/)
 - [**E-Periodica**](https://www.e-periodica.ch/)
 - [**geoconnexion**](https://www.geoconnexion.com/)
