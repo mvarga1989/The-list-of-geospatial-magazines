@@ -18,6 +18,7 @@ You wish to add or change something? Please send me an [email](mailto:mvarga1989
 - [**GIS.point**](https://gispoint.de/home.html)
 - [**GoGeomatics**](https://gogeomatics.ca/)
 - [**GPS World**](https://www.gpsworld.com/)
+- [**Hydro International**](https://www.hydro-international.com/)
 - [**International Construction**](https://www.international-construction.com/)
 - [**Inside GNSS**](https://insidegnss.com/)
 - [**Inside Unmanned Systems**](https://insideunmannedsystems.com/)
