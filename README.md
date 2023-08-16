@@ -16,6 +16,7 @@ You wish to add or change something? Please send me an [email](mailto:mvarga1989
 - [**GeoWeekNews**](https://www.geoweeknews.com/)
 - [**GIM International**](https://www.gim-international.com/)
 - [**GIS.point**](https://gispoint.de/home.html)
+- [**GIS lounge**](https://www.gislounge.com/)
 - [**GoGeomatics**](https://gogeomatics.ca/)
 - [**GPS World**](https://www.gpsworld.com/)
 - [**Hydro International**](https://www.hydro-international.com/)
