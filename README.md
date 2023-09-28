@@ -15,6 +15,7 @@ You wish to add or change something? Please send me an [email](mailto:mvarga1989
 - [**Geospatial World**, Youtube channel](https://www.youtube.com/user/geospatialmedia/featured)
 - [**GeoWeekNews**](https://www.geoweeknews.com/)
 - [**GIM International**](https://www.gim-international.com/)
+- [**GIS geography**](https://gisgeography.com/)
 - [**GIS.point**](https://gispoint.de/home.html)
 - [**GIS lounge**](https://www.gislounge.com/)
 - [**GoGeomatics**](https://gogeomatics.ca/)
