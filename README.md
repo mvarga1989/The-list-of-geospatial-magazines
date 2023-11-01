@@ -25,6 +25,7 @@ You wish to add or change something? Please send me an [email](mailto:mvarga1989
 - [**Inside GNSS**](https://insidegnss.com/)
 - [**Inside Unmanned Systems**](https://insideunmannedsystems.com/)
 - [**Leica Geosystems Reporter Magazine**](https://leica-geosystems.com/en-us/about-us/news-room/customer-magazine)
+- [**Leica The Savy Surveyor**](https://blog.hexagongeosystems.com/category/the-savvy-surveyor/)
 - [**Lidar Magazine**](https://lidarmag.com/)
 - [**Lidar News**](https://lidarnews.com/)
 - [**Mapscaping**](https://mapscaping.com/)
