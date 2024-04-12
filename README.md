@@ -2,6 +2,7 @@
 
 You wish to add or change something? Please send me an [email](mailto:mvarga1989@gmail.com), create a [pull request](https://github.com/mvarga1989/The-list-of-geospatial-magazines/pulls) or an [issue](https://github.com/mvarga1989/The-list-of-geospatial-magazines/issues).
 
+## Web-portals
 - [**American Surveyor**](https://amerisurv.com/)
 - [**BIM Learning Center**](https://bimlearningcenter.com/)
 - [**Coordinates**](https://mycoordinates.org/)
@@ -36,3 +37,16 @@ You wish to add or change something? Please send me an [email](mailto:mvarga1989
 - [**Surveyor**](https://www.acsnsw.com.au/news/surveyor-magazine/)
 - [**Velocity Magazine**](https://hexagonpositioning.com/tech-talk/velocity)
 - [**XYHT**](https://www.xyht.com/)
+
+## Educational video channels, in topics #digitaltwins, #realitycapture, #photogrammetry, #geodesy, #surveying
+
+- [**Leica Geosystems US & Canada**](https://www.youtube.com/@leicageoUSCAN)
+- [**Hexagon Manufacturing Intelligence**](https://www.youtube.com/@HexagonMetrology)
+- [**3D survey**](https://www.youtube.com/@3Dsurvey)
+- [**Lean Survey**](https://www.youtube.com/@leansurvey8212)
+
+## Educational personal-websites
+- [**Cyrill Stachniss**](https://www.youtube.com/@CyrillStachniss)
+- [**Christoph Holst**, TU Munich](https://www.youtube.com/@holstsgeodesy7675)
+- [**Florent Poux**](https://www.youtube.com/@FlorentPoux)
+- [**Rami Tamimi**](https://www.youtube.com/@RamiTamimi)
