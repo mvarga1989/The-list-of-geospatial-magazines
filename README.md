@@ -43,10 +43,13 @@ You wish to add or change something? Please send me an [email](mailto:mvarga1989
 - [**Leica Geosystems US & Canada**](https://www.youtube.com/@leicageoUSCAN)
 - [**Hexagon Manufacturing Intelligence**](https://www.youtube.com/@HexagonMetrology)
 - [**3D survey**](https://www.youtube.com/@3Dsurvey)
+- [**Riegl Video Lab**](https://www.youtube.com/@rieglvideolab2099)
 - [**Lean Survey**](https://www.youtube.com/@leansurvey8212)
 
 ## Educational personal-websites
-- [**Cyrill Stachniss**](https://www.youtube.com/@CyrillStachniss)
-- [**Christoph Holst**, TU Munich](https://www.youtube.com/@holstsgeodesy7675)
+- [**Prof. Dr. Cyrill Stachniss**](https://www.youtube.com/@CyrillStachniss)
+- [**Prof. Dr. Christoph Holst**, TU Munich](https://www.youtube.com/@holstsgeodesy7675)
+- [**Marcelo Santos**](https://www.youtube.com/@DrMarceloSantos)
 - [**Florent Poux**](https://www.youtube.com/@FlorentPoux)
+- [**Dr. Michael Lösler**](https://www.youtube.com/@derletztekick)
 - [**Rami Tamimi**](https://www.youtube.com/@RamiTamimi)
