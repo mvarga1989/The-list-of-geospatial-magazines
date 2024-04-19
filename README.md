@@ -1,6 +1,6 @@
 #  Community list of geospatial and geomatics industry magazines and websites
 
-You wish to add or change something? Please send me an [email](mailto:mvarga1989@gmail.com), create a [pull request](https://github.com/mvarga1989/The-list-of-geospatial-magazines/pulls) or an [issue](https://github.com/mvarga1989/The-list-of-geospatial-magazines/issues).
+### If my content has added any value to your work, please consider to give a star and/or share on your professional social networks. Thank you!
 
 ## Web-portals
 - [**American Surveyor**](https://amerisurv.com/)
