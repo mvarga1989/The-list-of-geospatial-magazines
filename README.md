@@ -11,6 +11,7 @@
 - [**Directions mag**](https://www.directionsmag.com)
 - [**Drone Life**](https://dronelife.com/)
 - [**E-Periodica**](https://www.e-periodica.ch/)
+- [**Earth Imaging Journal**](https://eijournal.com/)
 - [**geoconnexion**](https://www.geoconnexion.com/)
 - [**Geodaesie**](https://geodaesie.info/)
 - [**Geomares-marketing**](https://geomares-marketing.com/)
@@ -38,6 +39,7 @@
 - [**Spatial Source**](https://www.spatialsource.com.au/)
 - [**Surveyor**](https://www.acsnsw.com.au/news/surveyor-magazine/)
 - [**Velocity Magazine**](https://hexagonpositioning.com/tech-talk/velocity)
+- [**zfv – Zeitschrift für Geodäsie, Geoinformation und Landmanagement**](https://geodaesie.info/zfv) (on German)
 - [**XYHT**](https://www.xyht.com/)
 
 ## Educational video channels, in topics #digitaltwins, #realitycapture, #photogrammetry, #geodesy, #surveying
