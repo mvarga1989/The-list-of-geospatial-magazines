@@ -7,6 +7,7 @@
 ## Web-portals
 - [**American Surveyor**](https://amerisurv.com/)
 - [**BIM Learning Center**](https://bimlearningcenter.com/)
+- [**CanadianGIS**](https://canadiangis.com/)
 - [**Coordinates**](https://mycoordinates.org/)
 - [**Directions mag**](https://www.directionsmag.com)
 - [**Drone Life**](https://dronelife.com/)
